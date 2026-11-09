@@ -1,0 +1,6 @@
+zone,temperature,rainfall
+North,29,5
+South,32,2
+East,30,4
+West,33,1
+Central,34,0

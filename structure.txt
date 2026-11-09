@@ -1,0 +1,10 @@
+city_digital_twin/
+
+app.py
+requirements.txt
+README.md
+
+traffic.csv
+weather.csv
+air_quality.csv
+population.csv
